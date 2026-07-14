@@ -1,0 +1,7 @@
+41efff0 Revert "oops: add junk file"
+5b04617 oops: add junk file
+5482537 Rename project from 'git-branch' to 'git-merge'
+eafb20e add about page
+1515833 Add about feature file
+ee5ebfd Update README.md
+f69a5e4 Initial commit
